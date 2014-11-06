@@ -1,0 +1,13 @@
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\SetWidthAndHeightInXls.exe
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\SetWidthAndHeightInXls.pdb
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.dll
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.OOXML.dll
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.xml
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.OOXML.xml
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\obj\Debug\SetWidthAndHeightInXls.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\obj\Debug\SetWidthAndHeightInXls.exe
+C:\Users\Matt\Downloads\NPOI\examples\examples\hssf\SetWidthAndHeightInXls\obj\Debug\SetWidthAndHeightInXls.pdb
