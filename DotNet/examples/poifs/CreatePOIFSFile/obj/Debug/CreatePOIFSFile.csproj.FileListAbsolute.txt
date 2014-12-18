@@ -1,3 +1,6 @@
 C:\Users\Matt\Downloads\NPOI\examples\examples\poifs\CreatePOIFSFile\bin\Debug\CreatePOIFSFile.exe.config
 C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\CreatePOIFSFile.exe.config
+<<<<<<< HEAD
 C:\PhaeronGit\LVNPOI\DotNet\examples\hssf\CopyRowsAndCellsInXls\bin\Debug\CreatePOIFSFile.exe.config
+=======
+>>>>>>> 83eec589a94bf461a85dff38cc032845d1f99e8e
