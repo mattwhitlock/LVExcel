@@ -62,7 +62,7 @@
   <ItemGroup>
     <Reference Include="NPOI, Version=1.2.1.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\solution\Lib\NPOI.dll</HintPath>
+      <HintPath>..\..\..\..\Resources\NPOI 2.1.1 dotnet2\NPOI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

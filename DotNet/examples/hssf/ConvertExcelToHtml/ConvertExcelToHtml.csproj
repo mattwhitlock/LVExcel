@@ -53,7 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="NPOI">
-      <HintPath>..\..\..\solution\Lib\NPOI.dll</HintPath>
+      <HintPath>..\..\..\..\Resources\NPOI 2.1.1 dotnet2\NPOI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
