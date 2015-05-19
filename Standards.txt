@@ -1,0 +1,14 @@
+This document describes standards that should be adherred to by developers of this open source library.
+
+"Open" and "Close" should be used at the file (workbook) level only.
+
+"Get" and "Set" should be used for properties at any level. Cell Type, Column Width, Sheet Name are examples of properties that should be handled with "Get" and "Set".
+
+"Read" and "Write" should be used for interacting with the data in cells only.
+
+
+File Naming:
+stub_*.VI is for VIs that need to be implemented (or finished).
+
+Assumptions:
+This open source library was created with the assumption that most users will interact with Excel files without regard for the concept of Worksheets. Thus many VIs are polymorphic to allow the user to work with the first sheet or by a named sheet.
