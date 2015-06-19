@@ -43,6 +43,7 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="NPOI.OOXML.dll" Type="Document" URL="../../Resources/NPOI 2.1.1 dotnet4/NPOI.OOXML.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

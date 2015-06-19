@@ -4,3 +4,11 @@ C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\CreatePOIFS
 C:\PhaeronGit\LVNPOI\DotNet\examples\hssf\CopyRowsAndCellsInXls\bin\Debug\CreatePOIFSFile.exe.config
 =======
 >>>>>>> 83eec589a94bf461a85dff38cc032845d1f99e8e
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\CreatePOIFSFile.exe
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\CreatePOIFSFile.pdb
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\NPOI.dll
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\bin\Debug\NPOI.xml
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\obj\Debug\CreatePOIFSFile.csprojResolveAssemblyReference.cache
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\obj\Debug\CreatePOIFSFile.exe
+C:\PhaeronGit\LVNPOI\DotNet\examples\poifs\CreatePOIFSFile\obj\Debug\CreatePOIFSFile.pdb

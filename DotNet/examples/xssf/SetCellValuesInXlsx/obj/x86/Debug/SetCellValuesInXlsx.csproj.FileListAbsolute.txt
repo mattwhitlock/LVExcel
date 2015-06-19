@@ -1,0 +1,1 @@
+C:\PhaeronGit\LVNPOI\DotNet\examples\xssf\SetCellValuesInXlsx\bin\Debug\SetCellValuesInXlsx.exe.config
